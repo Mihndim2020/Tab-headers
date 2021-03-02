@@ -21,14 +21,18 @@
   text-align: center;
 }
 
-#London {background-color:red;
+#London {
+  background-color: red;
 }
 
-#Paris {background-color:green;
+#Paris {
+  background-color: green;
 }
 
-#Tokyo {background-color:blue;
+#Tokyo {
+  background-color: blue;
 }
 
-#Oslo {background-color:orange;
+#Oslo {
+  background-color: orange;
 }
